@@ -10,10 +10,9 @@ I like to write code using Oculus Quest 2 VR headset, nature, meditation, music 
 <blockquote>
 The HTTP <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">418 I'm a teapot</a> client error response code indicates that the server refuses to brew coffee because it is, permanently, a teapot.
 </blockquote>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="display: flex; justify-content: space-between">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
   </a>
