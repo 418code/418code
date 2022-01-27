@@ -2,7 +2,7 @@
 <h2 align="left">Hi, I'm Maxim.</h2>
  <h2 align="center">A business minded web developer with an eye for design.</h2>
 
-I got inspired to become a web developer while testing <a href="https://www.youtube.com/watch?v=B8R148hFxPw">Google's self-driving cars</a> in Silicon Valley.
+I got inspired to become a web developer while testing <a href="https://www.youtube.com/watch?v=B8R148hFxPw">Google's self-driving cars</a> as a contractor in Silicon Valley.
 Taking <a href="https://www.guidigo.com/Web/CHM-Revolution-Tour/DHTH2i2fYjA/StreetView/1/Calculators-Abacus">a tour of Computer History museum</a>, and going to various conferences also added to my motivation.
 I'm originally from Russia and one can say that Yandex is Google's Russian cousin. That's why I decided to study web development with <a href="https://practicum.yandex.com/web/">Yandex Practicum</a> (<a href="https://practicum.yandex.ru/web/">Russian branch</a>) - their educational startup.
 I like to write code using Oculus Quest 2 VR headset, nature, meditation, music and improv comedy. I got my Bachelor's in Business Administration from University of Connecticut.
